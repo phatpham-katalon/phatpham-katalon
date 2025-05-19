@@ -29,16 +29,17 @@ Here are some ideas to get you started:
         width="15%">
          <img src="https://img.shields.io/github/stars/delee03?style=flat&logo=github" alt="Stars"/> &nbsp;
           <img src="https://img.shields.io/github/followers/delee03?style=flat&logo=github" alt="Followers"/> &nbsp;
-          <img src="https://img.shields.io/github/last-commit/delee03/delee03" alt="Last commit"/> &nbsp;
-          <img src="https://img.shields.io/github/forks/delee03/delee03" alt="Forks"/>
+          <img src="https://img.shields.io/github/last-commit/phatpham-katalon/phatpham-katalon" alt="Last commit"/> &nbsp;
+          <img src="https://img.shields.io/github/forks/phatpham-katalon/phatpham-katalon" alt="Forks"/>
 </div>
  <ul align="left" >
-         <li>😃 I’m currently becoming a Cloud Engineer Step by Step</li>
-         <li>🌱 I’m currently working at <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">Katalon Inc</a> 
+         <li>😃 I’m currently becoming a Full Snack Software Engineer</li>
+         <li> ✨ I’m currently working at <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">Katalon Inc</a> 
          </li>
          <li>🌱 I’m interned at <a href="https://aws.amazon.com/vi/" target="_blank" rel="noopener">Amazon Web Services Viet Nam</a> 
          </li>
          <li>💬 Ask me about SOME stack and related technologies</li>
+         <li>🤔 I'm looking for a partner, peer group to learn, grow, collaborate in IT Developments and If you are, welcome to be my close friends</li>
          <li> 📫 How to reach me: phat.pham@katalon.com</li>
          <li>⚡ Fun fact: Guitar, Football, Extrovert person..</li>
   </ul>
