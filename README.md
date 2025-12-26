@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 <br>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delee03/delee03/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delee03/delee03/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/delee03/delee03/output/github-contribution-grid-snake.svg" width="100%" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phatpham-katalon/phatpham-katalon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phatpham-katalon/phatpham-katalon/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/phatpham-katalon/phatpham-katalon/output/github-contribution-grid-snake.svg" width="100%" height="auto">
 </picture>
 
 <br>
