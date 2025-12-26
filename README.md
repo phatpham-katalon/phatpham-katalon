@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=phatpham-katalon&show_icons=true&theme=radical" alt="phatpham-katalon's GitHub stats" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=phatpham-katalon&show_icons=true&theme=radical" alt="FuderrPham's GitHub stats" /> 
 </div>   
 <br>
 <br>
