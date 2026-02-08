@@ -70,17 +70,6 @@ Here are some ideas to get you started:
     <img src="https://streak-stats.demolab.com?user=phatpham-katalon&theme=radical&border_radius=4.8&exclude_days=Sun&card_width=530&card_height=200" alt="GitHub Streak" />
   </a>
 </p>
-<br>
-<!--Thống kê và most used languages-->
-<div>
- <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatpham-katalon&layout=compact&theme=radical&height=250" alt="Top Langs" />
-</div>
-
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=phatpham-katalon&show_icons=true&theme=radical" alt="FuderrPham's GitHub stats" /> 
-</div>   
-<br>
-<br>
   
 <br>
 <br>
